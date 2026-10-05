@@ -265,7 +265,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Build on Workers KV, R2, D1, and other Cloudflare bindings.
 - [Everpod](https://everpod.ai/docs/api) `https://everpod.ai/mcp`
   [![Everpod MCP connector](https://glama.ai/mcp/connectors/ai.everpod/everpod/badges/score.svg)](https://glama.ai/mcp/connectors/ai.everpod/everpod)
-  🔑 - Managed hosting for open-source AI agents: see your pods and start a new one from your own agent.
+  🔑 - Your own always-on cloud computer for AI agents: managed OpenClaw, or Claude Code and Codex.
 - [FARPY](https://farpy.com) `https://api.farpy.com/mcp`
   [![FARPY MCP connector](https://glama.ai/mcp/connectors/com.farpy.api/farpy/badges/score.svg)](https://glama.ai/mcp/connectors/com.farpy.api/farpy)
   🔐 - Run verified Blender GPU workloads, track jobs, retrieve artifacts, and inspect execution receipts.
